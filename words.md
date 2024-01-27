@@ -54,9 +54,52 @@
 
 <!-- Next one -->
 
-
-
-
-
+1. bend - انحناءٌ 
+3. study - يذاكر
+4. bath - مغطس
+5. give - منح
+6. get - يحصل
+7. knock - خبط
+8. slide - الانزلاق
+9. dive - يغوص
+10. skip - يتخطى
+11. cough - سعال
+12. sneeze - يعطس
+12. walk - سير
+13. jump - قفز
+14. wait - انتظر
+15. eat - أكل الوجبة
+16. wash - غسل
+17. slip - انزلاق
+18. punch - لكمة
+19. clap - صفق
+20. swim - السباحة
+21. catch - يمسك
+22. kick - ركلة
+23. hit - أصاب
+24. ride - يركب
+25. throw - يرمي
+26. sleep - ينام
+27. cook - يطبخ
+28. drink - شرب
+29. listen  - يستمع
+30. read - قرأ
+31. answer - إجابة
+32. talk - كلام
+33. kneel - ركع
+34. ski - تزلج
+35. dance - رقص
+36. paint - طلاء
+37. wave - موجة
+38. cut - يقطع
+39. drive - يقود
+40. pray - ابتهل
+41. love - حب
+42. comb - مشط
+43. look - ينظر
+44. shout - صيحة
+45. yawn - تثاؤب
+46. hide - يخفي
+47. like - يحب
 
 
